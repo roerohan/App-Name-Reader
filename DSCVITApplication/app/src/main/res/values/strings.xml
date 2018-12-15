@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DSCVIT App</string>
+    <string name="title_activity_home">DSCVIT App</string>
+    <string name="large_text">
+       App Details:\n
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>
